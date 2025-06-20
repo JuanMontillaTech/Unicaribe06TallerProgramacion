@@ -1,0 +1,11 @@
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\bin\Debug\net8.0\SC.Entities.deps.json
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\bin\Debug\net8.0\SC.Entities.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\bin\Debug\net8.0\SC.Entities.pdb
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\SC.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\SC.Entities.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\SC.Entities.AssemblyInfo.cs
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\SC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\SC.Entities.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\refint\SC.Entities.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\SC.Entities.pdb
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Entities\obj\Debug\net8.0\ref\SC.Entities.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SC.API.props" />
+</Project>

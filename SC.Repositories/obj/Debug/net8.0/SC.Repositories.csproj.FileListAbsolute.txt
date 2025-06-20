@@ -1,0 +1,17 @@
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\bin\Debug\net8.0\SC.Repositories.deps.json
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\bin\Debug\net8.0\SC.Repositories.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\bin\Debug\net8.0\SC.Repositories.pdb
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\bin\Debug\net8.0\Data.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\bin\Debug\net8.0\SC.Entities.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\bin\Debug\net8.0\Data.pdb
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\bin\Debug\net8.0\SC.Entities.pdb
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repositories.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repositories.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repositories.AssemblyInfo.cs
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repos.7F3C7D9D.Up2Date
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repositories.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\refint\SC.Repositories.dll
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\SC.Repositories.pdb
+C:\Users\Juan\Documents\unica\SLSuperContact\SC.Repositories\obj\Debug\net8.0\ref\SC.Repositories.dll
